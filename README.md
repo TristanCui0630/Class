@@ -4,5 +4,5 @@ function rollDice() {
   return randomn;
 }
 
-var what I got = rollDice();
+var result = rollDice();
 console.log("You rolled a " + result + "!");
